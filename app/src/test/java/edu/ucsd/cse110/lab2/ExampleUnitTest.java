@@ -14,7 +14,6 @@ import androidx.test.core.app.ActivityScenario;
 public class ExampleUnitTest {
     @Test
     public void should_always_pass() {
-//        assertEquals(3, 1 + 1); // temporarily comment out
-        assertEquals(2, 1*2);
+        assertEquals(3, 1 + 2);
     }
 }
